@@ -2,7 +2,7 @@
 
 This is a simple Node.js application that generates QR codes from user-provided text or URLs. It uses a command-line interface to accept input and creates a QR code image that can be easily shared or stored.
 
-#Features
+# Features
 i)Generate QR codes from text or URLs
 ii)Fast and lightweight
 iii)Command-line based input
